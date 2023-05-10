@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Myself Prakhar 👋
+
+![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhart111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhart111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!--
 **prakhart111/prakhart111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
