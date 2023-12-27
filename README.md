@@ -4,7 +4,7 @@
 
 ![prakhart111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhart111&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![](https://hit.yhype.me/github/profile?user_id=86708181)
+![](https://komarev.com/ghpvc/?username=prakhart111)
 <!--
 **prakhart111/prakhart111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
