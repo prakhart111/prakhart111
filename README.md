@@ -2,7 +2,7 @@
 
 <!-- ![prakhart111's Stats](https://github-readme-stats.vercel.app/api?username=prakhart111&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-![prakhart111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhart111&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- ![prakhart111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhart111&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ![](https://komarev.com/ghpvc/?username=prakhart111)
 <!--
